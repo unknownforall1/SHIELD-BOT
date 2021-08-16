@@ -1,1 +1,1 @@
-worker: python3 king.py
+worker: python3 shield.py
