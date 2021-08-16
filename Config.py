@@ -31,5 +31,5 @@ STRING25 = getenv("STRING25")
 ALIVE_NAME = ("SHIELD BOT")
 API_ID = getenv("API_ID")
 API_HASH = getenv("API_HASH")
-BIO_MESSAGE = "[KING_BOT_OP_FOR_REPO_CLICK](https://t.me/team_fighters_owner)"
+BIO_MESSAGE = "([SHIELD_BOT_OP_FOR_REPO_CLICK](https://t.me/team_fighters_owner))"
 SUDO = list(map(int, getenv("SUDO").split()))
