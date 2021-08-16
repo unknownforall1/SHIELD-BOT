@@ -28,7 +28,7 @@ STRING22 = getenv("STRING22")
 STRING23 = getenv("STRING23")
 STRING24 = getenv("STRING24")
 STRING25 = getenv("STRING25")
-
+ALIVE_NAME = ("SHIELD BOT")
 API_ID = getenv("API_ID")
 API_HASH = getenv("API_HASH")
 BIO_MESSAGE = "[KING_BOT_OP_FOR_REPO_CLICK](https://t.me/team_fighters_owner)"
